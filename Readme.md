@@ -1,3 +1,4 @@
+Kulagina Polina
 Simple project for study makefiles
 =====================
 
